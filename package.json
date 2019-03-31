@@ -1,0 +1,24 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "_Learning Typescript from many source platform :)_",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node build/main.js",
+    "build": "tsc --build tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idindrakusuma/typescript-playground.git"
+  },
+  "author": "Indra Kusuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idindrakusuma/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/idindrakusuma/typescript-playground#readme"
+}
