@@ -13,6 +13,6 @@ npm i -g typescript
 ```
 - do compile with this comment
 ```bash
-tsc --build tsconfig.json
+npm run build
 ```
-- run the project with command `node /build/main.js`
+- run the project with command `npm start`
